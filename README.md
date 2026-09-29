@@ -1,5 +1,4 @@
 # AI-Trust-Efficacy-Italy
-# AI-Trust-Efficacy-Italy
 
 ## Che cos'è un'interazione efficace con l'IA?
 ### Dall'efficacia alla fiducia, uno sguardo alle aziende italiane,
